@@ -1,0 +1,107 @@
+Black:Black
+End_Isiyama:Castle Roof (Acorn Plains)
+End_Iwaba:Castle Roof (Mountains)
+End_Kaigan:Castle Roof (Beach)
+End_Kougen:Castle Roof (Lugwig Battle)
+End_Mori:Castle Roof (Forest)
+End_Sabaku:Castle Roof (Desert)
+End_Setugen:Castle Roof (Snow)
+Hune:Ship*
+Hune_Boss:Boss (Ship)*
+Hune_Boss_2:Boss 2 (Ship)
+Isiyama_2:Acorn Plains (1)
+Isiyama_3:Acorn Plains (2)
+Iwaba: Rock Candy Mines (1)
+Iwaba_2: Rock Candy Mines (2)
+Iwaba_3: Rock Candy Mines (3)
+Kaigan:Beach (1)
+Kaigan_2:Beach (2)
+Kaigan_Ue:Beach (Clouds)
+Kinopio:Toad Minigame
+Kumonaka:Sky
+Kumonaka_Arashi:Sky (Storm)
+Kumonaka_Isi:Sky (Acorn Plains Mountain)
+Kumonaka_Naname:Sky 2
+Kumonaka_Sabaku:Sky (Desert)
+Kumonaka_Tate:Sky (Tate)
+Kumonaka_Yama:Sky (Hills)
+Kumonaka_Yama_2:Sky (Orange Hills)
+KumoUe:Sky (Low Clouds)
+KumoUe_Boss:Boss (Clouds)
+KumoUe_Hikousen:Sky (Above Hikousen)
+KumoUe_Sabaku:Sky (Above Desert)
+KumoUe_Yama:Sky (Above Hills)
+KumoUe_Yama_2:Sky (Above Orange Hills)
+Kuppa:Final Castle
+Kuppa_Boss:Final Boss Fight
+Mori:Forest
+Mori_2:Dark Forest
+Nohara:Beta Acorn Plains
+Obake:Ghost House Interior (Candles)
+Obake_2:Ghost House Interior
+Obake_hune:Ghost Ship Interior (Lantern)
+Obake_hune_2:Ghost Ship Interior
+Obake_Soto:Ghost House Exterior
+Obake_Soto_2:Ghost House Exterior (Foggy)
+Obake_Soto_fune:Ghost Ship (Foggy)
+Obake_Soto_hune:Ghost Ship
+Obake_tate:Ghost House Room*
+Obake_tate_2:Ghost House Room (Curtains)*
+Picture:Painted Swampland (Bowser)
+Picture_2:Painted Swampland (Bowser Jr)
+R_Kumo_Luigi:NSLU BG 1
+R_Obake_hune:NSLU BG 2
+R_Picture_2:NSLU BG 3
+R_Setugen:NSLU BG 4
+R_Siro_Yoko:NSLU BG 5
+R_Suityu:NSLU BG 6
+Sabaku:Desert (Stone Heads)
+Sabaku_2:Desert (Ice Cream)
+SabakuChika:Underground (Blue)
+Setugen:Starry Skies
+Setugen_2:Starry Skies (Mountains)
+Setugen_Naname:Starry Skies (Forest)
+Shadow:Toad Records House*
+Shiro:Shiro
+Short_Play:Opening Cutscene*
+Siro:Castle (1)
+Siro_2:Castle (2)
+Siro_3:Castle (3)
+Siro_Boss:Boss Battle (Lemmy)*
+Siro_Boss_2:Boss Battle (Morton)*
+Siro_Boss_Iggy:Boss Battle (Iggy)*
+Siro_Boss_Larry:Boss Battle (Larry)*
+Siro_Boss_Ludw:Boss Battle (Ludwig)*
+Siro_Boss_Roy:Boss Battle (Roy)*
+Siro_Boss_Wendy:Boss Battle (Wendy)*
+Siro_Kougen:Castle (Kougen)
+Siro_peach:Peach's Castle
+Siro_Setugen:Castle (Snow)
+Siro_Tate:Castle (Tate)
+Staffroll:Credits*
+Suityu:Underwater
+Suityu_Tate:Underwater (Tate)
+Tika:Underground (1)
+Tika_2:Underground (2)
+Tika_3:Underground (3)
+Tika_Kori:Underground Kori (1)
+Tika_Kori_2:Underground Kori (2)
+Tika_Picture:Underground Painted (1)
+Tika_Picture_2:Underground Painted (2)
+Tika_sabaku:Underground Desert
+Tika_tate_2:Underground Tate
+Toride:Tower (Acorn Plains)*
+Toride_2:Tower (2)*
+Toride_Boss:Tower Boss (Acorn Plains)*
+Toride_Boss_2:Tower Boss (2)*
+Toride_Boss_3:Tower Boss (3)*
+Toride_Boss_4:Tower Boss (4)*
+Toride_Boss_5:Tower Boss (5)*
+Toride_Iwaba:Tower (Fake?)*
+Toride_Sabaku:Tower (Desert)*
+Toride_Setugen:Tower (Snow)*
+Yougan:Lava (1)
+Yougan_2:Lava (2)
+Yougan_Goal:Lava (Goal)
+Yougan_Naname:Lava (Obliqueness/slanting)
+Yougan_Ue:Lava (Upper)

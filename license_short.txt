@@ -1,0 +1,5 @@
+Satoru - a supercharged fork of the modern level editor
+
+Copyright (C) 2017 Treeki, Tempus, angelsl, JasonP27, Kinnay, Meorge, RoadrunnerWMC, MrRean, Grop
+
+Development forums: unknown
